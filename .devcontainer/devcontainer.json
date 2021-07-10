@@ -35,7 +35,10 @@
 	"extensions": [
 		"ms-python.python",
 		"ms-python.vscode-pylance",
-		"albert.TabOut"
+		"dbaeumer.vscode-eslint",
+		"mhutchie.git-graph",
+		"albert.TabOut",
+		"esbenp.prettier-vscode"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
