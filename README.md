@@ -1,0 +1,1 @@
+This purpose of this repo is to construct a python3 container to allow easy testing of python module setup files (`setup.py`).
